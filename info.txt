@@ -1,3 +1,8 @@
 Important commands used on this projects
 
+export and import module example
+module.exports = hello
+const hello = require('./hello.js')
+
 npm init -y
+npm i express
