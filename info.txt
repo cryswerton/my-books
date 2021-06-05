@@ -6,3 +6,4 @@ const hello = require('./hello.js')
 
 npm init -y
 npm i express
+npm i -D nodemon (usage -> npm run dev)
